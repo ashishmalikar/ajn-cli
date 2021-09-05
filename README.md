@@ -1,13 +1,15 @@
 # ajn-cli
 
-```bash
-npm install -g ajna-cli
+```shell
+$ npm install -g ajna-cli
 ```
 
-```
-ajna create-app app-name
+```shell
+$ ajna create-app app-name
 ```
 
+```shell
+$ ajna create-elm AjnaHeader
 ```
-ajna create-elm AjnaHeader
-```
+
+
